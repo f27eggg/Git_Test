@@ -6,5 +6,7 @@ public class Hello {
 
         System.out.println("master test");
         System.out.println("push test");
+
+        System.out.println("push real test");
     }
 }
