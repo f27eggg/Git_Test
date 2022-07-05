@@ -4,5 +4,6 @@ public class Hello {
         System.out.println("ok ? ");
 
         System.out.println("master test");
+        System.out.println("push test");
     }
 }
